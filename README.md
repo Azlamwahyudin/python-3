@@ -24,5 +24,18 @@ A. Percabangan if
 
 B. Operator Perbandingan
 
--
+- operator perbandingan sudah di jelaskan pada gambar tentang perbandingan true dan false
+
+![Operator perbandingan 1](https://user-images.githubusercontent.com/93004934/140739196-b9ad5778-453c-430a-b740-40e377ffa12c.png)
+
+- operator perbandingan di satukan dengan if
+- seperti pada gambar seperti itulah penggabungan operator perbandingan dengan if
+
+![operator perbandingan 2](https://user-images.githubusercontent.com/93004934/140739384-059da06a-6450-4d2a-a178-208eb0a59f01.png)
+
+C.
+
+
+
+
 
