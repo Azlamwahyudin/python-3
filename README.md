@@ -33,7 +33,29 @@ B. Operator Perbandingan
 
 ![operator perbandingan 2](https://user-images.githubusercontent.com/93004934/140739384-059da06a-6450-4d2a-a178-208eb0a59f01.png)
 
-C.
+C. Operator logika
+
+- Cukup singkat saya jelaskan pada gambar
+
+![op_logika](https://user-images.githubusercontent.com/93004934/140744451-8f3904dc-a5b5-45e0-85e0-5afff37c4460.png)
+
+![op_logika 2](https://user-images.githubusercontent.com/93004934/140744521-4a1fb85e-8511-4405-b78d-4af645a02150.png)
+
+- false or true = true
+- true or false = true
+- true and false = false
+- false and true = false
+- true and true = true
+- false and false = false
+
+![op_logika 3](https://user-images.githubusercontent.com/93004934/140744561-13c9b76f-734a-4974-bc90-76dd43e8c5aa.png)
+
+D. perulangan While
+
+
+
+
+
 
 
 
