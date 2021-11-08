@@ -52,6 +52,39 @@ C. Operator logika
 
 D. perulangan While
 
+- lansung ke program nya saja seperti pada gambar
+
+![perulangan while 1](https://user-images.githubusercontent.com/93004934/140766298-3c1ad121-a73b-4ccb-a85b-fa69da19382b.png)
+
+![perulangan while 2](https://user-images.githubusercontent.com/93004934/140766756-456e83c0-ecd2-44bf-ad47-04e648bab827.png)
+
+E. Game Tebak Angka
+
+- sudah saya jelaskan pada gambar
+
+![game tebak gambar](https://user-images.githubusercontent.com/93004934/140766985-b7c2bab5-80e6-4e73-96fa-b2201378a3c5.png)
+
+F. Aplikasi kalkulator
+
+- kita buat operasi yang kita masukkan nanti untuk menghitung angka yang kita masukkan
+- kemudian kita buat while Oprasi Exit agar dia mensuport untuk berhenti
+- kemudian kita buat operasi input untuk memasukkan perintah
+- dan kita gunakan break untuk memaksa perulangan berhenti
+- dan kita gunakan continue untuk memaksa jalannya program di dalam luping agar balik ke atas atau balik ke while
+
+![kalkulator 1](https://user-images.githubusercontent.com/93004934/140767300-73d0ebba-4e3e-4c3b-a89b-c243860ea4d1.png)
+
+- dan kalkulator akan keluar jika kita masukkan exit
+
+![kalkulator 2](https://user-images.githubusercontent.com/93004934/140768450-350e00e6-20cd-4fa2-a0ca-bc2619d5870d.png)
+
+SELSAI.
+
+
+
+
+
+
 
 
 
